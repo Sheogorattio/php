@@ -53,7 +53,7 @@ if(isset($_POST['selcity']))
             echo '<td>' . $row[1] . '</td>';
             echo '<td>$' . $row[3] . '</td>';
             echo '<td>' . $row[4] . '</td>';
-            echo '<td><a href="pages/hotelinfo.php?hotel=' . $row[5] . '" target="_blank">more info</a></td>';
+            echo '<td><a href="pages/hotelinfo.php?hotel=' . $row[5] . '">more info</a></td>';
             echo '</tr>';
         }
     echo '</table><br>';
