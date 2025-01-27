@@ -1,0 +1,15 @@
+{
+    "name": "skysn/php-site-practice",
+    "autoload": {
+        "psr-4": {
+            "Skysn\\PhpSitePractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sheogorattio",
+            "email": "91422100+Sheogorattio@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
